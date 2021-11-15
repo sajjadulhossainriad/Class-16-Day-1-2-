@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.position{
+    width: 1200px;
+    border: 1px solid black;
+    margin: 30px auto;
+    text-align: center;
+    position: relative;
+    
+}
+.div1{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.div2{
+    height: 300px;
+    width: 300px;
+    background-color: tomato;
+    display: inline-block;
+}
+.div3{
+        height: 300px;
+        width: 300px;
+        display: inline-block;  
+        background-color: blue;
+}
